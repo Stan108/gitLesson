@@ -8,5 +8,6 @@ public class Main {
         SimpleDateFormat format = new SimpleDateFormat("yyyy/MM/HH:mm");
         System.out.println("Текущее время: " + format.format(new Date()));
         //
+        //
     }
 }
